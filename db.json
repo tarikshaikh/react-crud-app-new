@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@gmail.com",
+      "id": "mWq8GRe"
+    },
+    {
+      "firstName": "Will",
+      "lastName": "Smith",
+      "email": "will.smith@gmail.com",
+      "id": "abaBjAg"
+    },
+    {
+      "firstName": "Dave",
+      "lastName": "Evans",
+      "email": "dave.evans@gmail.com",
+      "id": "WA1y4qF"
+    }
+  ]
+}
